@@ -4,13 +4,13 @@ import java.io.FileReader;
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.DomDriver;
 
-public class docente {
+public class Docente {
 
-	private static void lerXml() {
+	protected static void lerXml() {
 		FileReader reader = null;
 		try {
 			//carrega o arquivo XML para um objeto reader
-			reader = new FileReader("D:\\UFRPE\\Programacao\\eclipse\\projeto_p2\\curriculo.xml");
+			reader = new FileReader("D:\\UFRPE\\Programacao\\eclipse\\workspace\\br.ufrpe.poo.projeto.lattes\\documentacao\\curriculo.xml");
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
