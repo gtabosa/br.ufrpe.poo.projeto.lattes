@@ -35,20 +35,92 @@ import bean.Produto;
 public class Main {
 
 	public static void main(String[] args) /*throws Exception*/{
-		Fornecedor forn = setFornecedor();
+		//Fornecedor forn = setFornecedor();
+		CurriculoVitae curriculo =setCurriculoVitae() ;
+		//DadosGerais dadosGerais = setDadosGerais();
 		
-		XStream xstream = new XStream(new DomDriver());
-		xstream.alias("Fornecedor", Fornecedor.class);
-		xstream.alias("produto", Produto.class);
-		xstream.registerConverter(new ConverteData());
-		String xml = xstream.toXML(forn);
+				
+		//XStream xstream = new XStream(new DomDriver());
+		//xstream.alias("CURRICULO-VITAE", CurriculoVitae.class);
+		//xstream.alias("DADOS-GERAIS", DadosGerais.class);
+		//xstream.alias("Fornecedor", Fornecedor.class);
+		//xstream.alias("produto", Produto.class);
+		//xstream.registerConverter(new ConverteData());
+		//String xml = xstream.toXML(forn);
+		//String xml = xstream.toXML(curriculo);
 		
 		//System.out.println(xml);
-		gerarArquivo(xml);
+		//gerarArquivo(xml);
 		buscaArquivo();
 		// TODO Auto-generated method stub
 		}
+
+	public static void gerarArquivo(String xml) {
+		PrintWriter print = null;
+		try {
+			File file = new File("C:\\Users\\Gustavo\\Desktop\\arquivoGerado.xml");
+			print = new PrintWriter(file);
+			print.write(xml);
+			print.flush();
+			print.close();
+		}catch(FileNotFoundException ex){
+			Logger.getLogger(Main.class.getName()).log(Level.SEVERE,null,ex);
+			} finally {
+				print.close();
+			}
+	}
+	
+	public static void buscaArquivo() {
+		try {
+			FileReader ler = new FileReader("C:\\Users\\Gustavo\\Desktop\\curriculo.xml");
+			XStream xstream = new XStream(new DomDriver());
+			xstream.alias("CURRICULO-VITAE", CurriculoVitae.class);
+			//xstream.alias("DADOS-GERAIS", DadosGerais.class);
+			//xstream.alias("Fornecedor", Fornecedor.class);
+			//xstream.alias("produto", Produto.class);
+			
+			xstream.registerConverter(new ConverteData());
+			
+			//Fornecedor forn =(Fornecedor) xstream.fromXML(ler);
+			//DadosGerais dados = (DadosGerais) xstream.fromXML(ler);
+			CurriculoVitae curriculo = (CurriculoVitae) xstream.fromXML(ler);
+			//DadosGerais dadosgerais = (DadosGerais) xstream.fromXML(ler);
+			
+			System.out.println("Sistema de Origem : " + curriculo.getSistemaOrigemXml());
+			System.out.println("Data de Atualizacao : " + curriculo.getDataAtualizacao());
+			System.out.println("Numero identificador : " + curriculo.getNumeroIdentificador());
+			
+			//System.out.println("Nome : " + dados.getNome());
+			//System.out.println("Nome : " + dados.getPaisNacionalidade());
+			
+			//System.out.println("Nome : " + forn.getNome());
+			//System.out.println("Nome : " + forn.getCnpj());
+			
+		}catch(FileNotFoundException ex){
+			Logger.getLogger(Main.class.getName()).log(Level.SEVERE,null,ex);
+		}finally {
+		}
+	}
+	
+	private static CurriculoVitae setCurriculoVitae() {
+		CurriculoVitae curriculo = new 	CurriculoVitae();
+		curriculo.setDadosGerais(setDadosGerais());
+		//DadosGerais dadosGerais = new DadosGerais();
+		//curriculo.setDadosGerais(dadosGerais);
 		
+		return curriculo;
+	}
+	
+	private static DadosGerais setDadosGerais() {
+		DadosGerais dadosGerais = new DadosGerais();
+		
+		//DadosGerais dadosGerais = new DadosGerais();
+		//curriculo.setDadosGerais(dadosGerais);
+		
+		return dadosGerais;
+	}
+	
+/*	
 	private static Fornecedor setFornecedor() {
 		Fornecedor forn = new Fornecedor();
 		Endereco end = new Endereco();
@@ -84,41 +156,9 @@ public class Main {
 		forn.setProdutos(listProd);
 		
 		return forn;
-	}
-
-	public static void gerarArquivo(String xml) {
-		PrintWriter print = null;
-		try {
-			File file = new File("C:\\Users\\Gustavo\\Desktop\\arquivoGerado.xml");
-			print = new PrintWriter(file);
-			print.write(xml);
-			print.flush();
-			print.close();
-		}catch(FileNotFoundException ex){
-			Logger.getLogger(Main.class.getName()).log(Level.SEVERE,null,ex);
-			} finally {
-				print.close();
-			}
-	}
+	}*/
 	
-	public static void buscaArquivo() {
-		try {
-			FileReader ler = new FileReader("C:\\Users\\Gustavo\\Desktop\\arquivoGerado.xml");
-			XStream xstream = new XStream(new DomDriver());
-			xstream.alias("Fornecedor", Fornecedor.class);
-			xstream.alias("produto", Produto.class);
-			xstream.registerConverter(new ConverteData());
-			Fornecedor forn =(Fornecedor) xstream.fromXML(ler);
-			
-			System.out.println("Nome : " + forn.getNome());
-			System.out.println("Nome : " + forn.getCnpj());
-			
-		}catch(FileNotFoundException ex){
-			Logger.getLogger(Main.class.getName()).log(Level.SEVERE,null,ex);
-		}finally {
-
-		}
-
-	}
 }
+
+
 
