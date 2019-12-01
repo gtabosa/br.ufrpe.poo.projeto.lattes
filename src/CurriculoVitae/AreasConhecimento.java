@@ -1,6 +1,10 @@
 package CurriculoVitae;
 
-public class AreaConhecimentoPosDout extends PosDoutorado{
+public class AreasConhecimento {
+	
+	/*
+	 * Área Conhecimento é usado em Mestrado, Pos Doutorado, Produções Bibliograficas e Livros publicados.
+	 * */
 	
 	private String nomeGrandeAreaConhecimento;
 	private String nomeAreaConhecimento;
@@ -32,6 +36,7 @@ public class AreaConhecimentoPosDout extends PosDoutorado{
 	public void setNomeEspecialidade(String nomeEspecialidade) {
 		this.nomeEspecialidade = nomeEspecialidade;
 	}
+	
 	
 	
 }

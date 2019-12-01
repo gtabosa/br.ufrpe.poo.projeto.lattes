@@ -1,13 +1,20 @@
 package CurriculoVitae;
 
-public class AreasConhecimentoMestrado extends Mestrado {
+public class AreaAtuacao {
 	
+	private int sequenciaAreaAtuacao;
 	private String nomeGrandeAreaConhecimento;
 	private String nomeAreaConhecimento;
 	private String nomeSubAreaConhecimento;
 	private String nomeEspecialidade;
 	
 	
+	public int getSequenciaAreaAtuacao() {
+		return sequenciaAreaAtuacao;
+	}
+	public void setSequenciaAreaAtuacao(int sequenciaAreaAtuacao) {
+		this.sequenciaAreaAtuacao = sequenciaAreaAtuacao;
+	}
 	public String getNomeGrandeAreaConhecimento() {
 		return nomeGrandeAreaConhecimento;
 	}
@@ -32,7 +39,5 @@ public class AreasConhecimentoMestrado extends Mestrado {
 	public void setNomeEspecialidade(String nomeEspecialidade) {
 		this.nomeEspecialidade = nomeEspecialidade;
 	}
-	
-	
 	
 }

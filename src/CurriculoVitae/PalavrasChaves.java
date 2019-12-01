@@ -1,6 +1,9 @@
 package CurriculoVitae;
 
-public class PalavrasChaves extends Mestrado {
+public class PalavrasChaves {
+	/*
+	 * Palavras chaves são usadas em Mestrado, Produções Bibliograficas, artigos e Livros publicados
+	 * */
 	
 	private String PChave1; // PChave é 'Palavra Chave'
 	private String PChave2;
@@ -8,6 +11,8 @@ public class PalavrasChaves extends Mestrado {
 	private String PChave4;
 	private String PChave5;
 	private String PChave6;
+	
+	
 	public String getPChave1() {
 		return PChave1;
 	}
@@ -44,7 +49,5 @@ public class PalavrasChaves extends Mestrado {
 	public void setPChave6(String pChave6) {
 		PChave6 = pChave6;
 	}
-	
-	
-	
+
 }
