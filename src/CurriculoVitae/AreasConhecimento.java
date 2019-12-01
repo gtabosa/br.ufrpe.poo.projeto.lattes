@@ -1,6 +1,10 @@
 package CurriculoVitae;
 
-public class AreasConhecimentoMestrado extends Mestrado {
+public class AreasConhecimento {
+	
+	/*
+	 * Área Conhecimento é usado em Mestrado, Pos Doutorado, Produções Bibliograficas e Livros publicados.
+	 * */
 	
 	private String nomeGrandeAreaConhecimento;
 	private String nomeAreaConhecimento;
