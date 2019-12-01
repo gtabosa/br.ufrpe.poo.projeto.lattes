@@ -1,0 +1,538 @@
+Gustavo Rau de Almeida Callou
+Endereço para acessar este CV: http://lattes.cnpq.br/3146558967986940
+ID Lattes: 3146558967986940
+Última atualização do currículo em 10/11/2019
+
+Professor do Departamento de Computação da Universidade Federal Rural de Pernambuco. Graduado em Ciência da Computação pela Universidade Católica de Pernambuco (2005), mestrado(2009) e doutorado(2013) em Ciência da Computação pela Universidade Federal de Pernambuco com período sanduíche na Alemanha pela Bergische Universität Wuppertal (2011/2012). Principal experiência focada em Avaliação de Desempenho e Dependabilidade de Sistemas. Atua principalmente nos seguintes temas: redes de Petri, modelagem de desempenho, dependabilidade e sustentabilidade; e estimativa de consumo de energia, impacto ambiental, desempenho e redes de computadores. (Texto informado pelo autor)
+
+Identificação
+Nome
+Gustavo Rau de Almeida Callou
+Nome em citações bibliográficas
+CALLOU, G. R. A.;Callou, Gustavo;Callou, G.;Callou, Gustavo Rau de Almeida;Callou, Gustavo Almeida
+Lattes iD
+http://lattes.cnpq.br/3146558967986940
+Orcid iD
+? https://orcid.org/0000-0002-7997-374X
+
+Formação acadêmica/titulação
+2009 - 2013
+Doutorado em Ciências da Computação (Conceito CAPES 7).
+Universidade Federal de Pernambuco, UFPE, Brasil.
+com período sanduíche em Bergische Universität Wuppertal (Orientador: Dietmar Tutsch).
+Título: Assessment to support the planning of sustainable data centers with high availability., Ano de obtenção: 2013.
+Orientador: Paulo Romero Martins Maciel.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+2007 - 2009
+Mestrado em Ciências da Computação (Conceito CAPES 7).
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Energy Consumption and Execution Time Estimation of Embedded System Applications.,Ano de Obtenção: 2009.
+Orientador: Paulo Romero Martins Maciel.
+Palavras-chave: Simulação Computacional; Redes de Petri; Consumo de energia; Performance.
+Grande área: Ciências Exatas e da Terra
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Sistemas Embarcados.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Métodos Formais.
+2000 - 2005
+Graduação em Ciência da Computação.
+Universidade Católica de Pernambuco, UNICAP, Brasil.
+
+Pós-doutorado
+2014 - 2015
+Pós-Doutorado.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Grande área: Ciências Exatas e da Terra
+
+Formação Complementar
+2010 - 2010
+Extensão universitária em Advanced Course on Petri Nets. (Carga horária: 90h).
+Universität Rostock, UNI/Rostock, Alemanha.
+2010 - 2010
+Advanced English Course. (Carga horária: 40h).
+Idiomas Number One, NUMBERONE, Brasil.
+2009 - 2010
+IELTS Preparation. (Carga horária: 160h).
+Global Village Toronto - Canada, GLOBAL VILLAGE, Canadá.
+2009 - 2009
+Introdução ao Gerenciamento Ágil de Proj de Soft. (Carga horária: 16h).
+Centro de Tecnologia de Software para Exportação do Recife, SOFTEX/RECIFE, Brasil.
+2009 - 2009
+Gestão de Processo de Software. (Carga horária: 15h).
+Centro de Tecnologia de Software para Exportação do Recife, SOFTEX/RECIFE, Brasil.
+2005 - 2006
+High Advanced.
+Cultura Inglesa, CULTURAINGLESA, Brasil.
+2005 - 2005
+Introdução a Testes e Ferramentas. (Carga horária: 32h).
+Qualiti Assessoria e Consultoria S/A, QUALITI, Brasil.
+2004 - 2004
+High Advanced.
+Associação Brasil América, IDIOMASABA, Brasil.
+2003 - 2004
+Campanha Java Certified Programmer. (Carga horária: 85h).
+Instituto de Tecnologia Em Informática, ITECI, Brasil.
+2002 - 2002
+Java Basico. (Carga horária: 20h).
+Instituto de Planejamento e Apoio Ao Desenvolvimento Cientifico e Tecnologi, IPAD, Brasil.
+2001 - 2001
+Extensão universitária em Teoria e Prática Linguagem de Programação Delphi. (Carga horária: 90h).
+Senac de Pernambuco, SENAC-PE, Brasil.
+2001 - 2001
+Extensão universitária em Montagem Diag e Config de Microcomputadores. (Carga horária: 96h).
+Senac de Pernambuco, SENAC-PE, Brasil.
+2001 - 2001
+Robotica. (Carga horária: 30h).
+Universidade Católica de Pernambuco, UNICAP, Brasil.
+
+Atuação Profissional
+
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+Vínculo institucional
+
+2013 - Atual
+Vínculo: Servidor Público, Enquadramento Funcional: Professor Adjunto, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2009 - 2010
+Vínculo: Servidor Público, Enquadramento Funcional: Professor Substituto, Carga horária: 40
+
+Atividades
+
+08/2019 - Atual
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Sistemas Distribuídos
+Programação II
+Laboratório de Programação II
+08/2019 - Atual
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Sistemas Distribuídos
+Tópicos em TICs
+03/2019 - 07/2019
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Análise de Desempenho
+Programação I
+03/2019 - 07/2019
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Avaliação de Desempenho e Dependabilidade de Sistemas
+09/2018 - 02/2019
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Análise de Desempenho
+Introdução à Programação
+09/2018 - 02/2019
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Avaliação de Desempenho e Dependabilidade de Sistemas
+Trabalho Individual
+09/2018 - 02/2019
+Ensino, Bacharelado em Sistemas de Informação, Nível: Graduação
+
+Disciplinas ministradas
+Programação I
+04/2018 - 08/2018
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Análise de Desempenho de Sistemas
+04/2018 - 08/2018
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Programação
+04/2018 - 08/2018
+Ensino, Sistema de Informação, Nível: Graduação
+
+Disciplinas ministradas
+Programação III
+04/2018 - 08/2018
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Avaliação de Desempenho e Dependabilidade de Sistemas
+12/2017 - 03/2018
+Ensino, Sistema de Informação, Nível: Graduação
+
+Disciplinas ministradas
+Programação I - EADTEC UFRPE
+10/2017 - 02/2018
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Análise de Desempenho de Sistemas
+10/2017 - 02/2018
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Programação
+09/2017 - 02/2018
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Avaliação de Desempenho e Dependabilidade de Sistemas
+05/2017 - 09/2017
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Elementos de Informática
+Introdução à Programação
+03/2017 - 08/2017
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Avaliação de Desempenho e Dependabilidade de Sistemas
+08/2016 - 02/2017
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Programação
+Gerenciamento de Redes
+05/2014 - 11/2016
+Direção e administração, UNIVERSIDADE FEDREAL RURAL DE PERNAMBUCO, .
+
+Cargo ou função
+Coordenador do Curso de Graduação de Licenciatura Plena em Computação.
+02/2016 - 07/2016
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Infra-estrutura de Software
+02/2016 - 07/2016
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Avaliação de Desempenho e Dependabilidade de Sistemas
+08/2015 - 12/2015
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Infra-estrutura de Software
+02/2015 - 08/2015
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Avaliação de Desempenho e Dependabilidade de Sistemas
+02/2015 - 08/2015
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Avaliação de Desempenho de Redes
+Sistemas Operacionais
+09/2014 - 02/2015
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Avaliação de Desempenho de Redes
+09/2014 - 02/2015
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Modelagem e Simulação
+03/2014 - 08/2014
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Avaliação de Desempenho de Redes
+10/2013 - 02/2014
+Ensino, Computação e Informática, Nível: Graduação
+
+Disciplinas ministradas
+Elementos de Informática
+Introdução a Computação
+Introdução à Informática
+10/2009 - 10/2010
+Ensino, Bacharelado em Sistemas de Informação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução a Programação
+Laboratório de Programação
+Modelagem e Programação Orientada a Objetos
+
+Bergische Universität Wuppertal, UNI WUPPERTAL, Alemanha.
+Vínculo institucional
+
+2011 - 2012
+Vínculo: Bolsista, Enquadramento Funcional: Pesquisador, Carga horária: 40
+Outras informações
+Durante esse período, Gustavo foi membro do grupo de pesquisa do professor Dietmar Tutsch tendo colaborado com pesquisas focadas em modelagem para estimativas de confiabilidade, disponibilidade, custos e estimativas do impacto ambiental de sistemas complexos (data center). As pesquisas foram conduzidas no departamento de Ciência da Computação e Automação em sua sala localizada no prédio FC do campus Freudenberg.
+
+Atividades
+
+09/2011 - 09/2012
+Pesquisa e desenvolvimento , Informatik / Automation, .
+
+Linhas de pesquisa
+Avaliação de desempenho
+Modelagem
+Avaliação de dependabilidade
+Estimativas de impacto ambiental de sistemas complexos (data center).
+
+EMC, EMC, Estados Unidos.
+Vínculo institucional
+
+2011 - Atual
+Vínculo: Bolsista, Enquadramento Funcional: Pesquisador, Carga horária: 20
+Outras informações
+Este projeto estuda o desenvolvimento de metodologias para avaliação de dependabilidade e desempenho de sistemas de armazenamento de dados. Neste projeto, também se estuda o desenvolvimento de mecanismos de monitoração de imagens gravadas em NAS.
+
+
+Hewlett-Packard Brasil - Matriz, HP BRASIL, Brasil.
+Vínculo institucional
+
+2009 - 2010
+Vínculo: Bolsista, Enquadramento Funcional: Pesquisador, Carga horária: 30
+Outras informações
+O projeto DESDAC teve como objetivo o desenvolvimento de uma metodologia de modelagem e de avaliação de confiabilidade e disponibilidade de data centers. O projeto considerou a concepção e desenvolvimento de um conjunto de modelos parametrizados que permitam a avaliação de métricas de disponibilidade e confiabilidade dos componentes e sub-sistemas que compreendem os sistemas data centers.
+
+
+Faculdade de Recife, FAREC, Brasil.
+Vínculo institucional
+
+2011 - 2011
+Vínculo: Colaborador, Enquadramento Funcional: Professor, Carga horária: 3
+
+Vínculo institucional
+
+2010 - 2010
+Vínculo: Colaborador, Enquadramento Funcional: Professor, Carga horária: 3
+
+Atividades
+
+02/2011 - 09/2011
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Sistemas Distribuídos
+Sistemas Distribuídos II
+02/2010 - 08/2010
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Conceitos de Linguagens de Programação
+Teoria dos Grafos
+
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Vínculo institucional
+
+2006 - 2013
+Vínculo: Servidor Público, Enquadramento Funcional: Técnico em Tecnologia da Informação, Carga horária: 40
+Outras informações
+Responsável pelo desenvolvimento, manutenção e avaliação do desempenho de aplicativos em Java para o Hospital das Clínicas de PE.
+
+Atividades
+
+02/2006 - 02/2009
+Serviços técnicos especializados , Hospital das Clínicas da UFPE, Departamento de Informática.
+
+Serviço realizado
+Desenvolvimento de Sistemas.
+
+Faculdade de Informática e Tecnologia de Pernambuco, FATECPE, Brasil.
+Vínculo institucional
+
+2009 - 2009
+Vínculo: Professor, Enquadramento Funcional: Professor, Carga horária: 8
+
+Atividades
+
+08/2009 - 09/2009
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Linguagens Formais e Autômatos
+Programação II
+
+Centro de Estudos e Sistemas Avançados do Recife, CESAR, Brasil.
+Vínculo institucional
+
+2004 - 2006
+Vínculo: Celetista formal, Enquadramento Funcional: Engenheiro de Sistemas, Carga horária: 40
+
+Atividades
+
+12/2004 - 01/2006
+Outras atividades técnico-científicas , Motorola, Motorola.
+
+Atividade realizada
+Participação no projeto BTC - Test Automation: a) Automação de testes para celulares motorola; b) Porting dos testes já automatizados; c) Execução dos testes automáticos..
+
+Universidade Católica de Pernambuco, UNICAP, Brasil.
+Vínculo institucional
+
+2004 - 2005
+Vínculo: Monitoria, Enquadramento Funcional: Aluno, Carga horária: 20
+Outras informações
+Monitor da disciplina Algoritmos e Estruturas de Dados II
+
+Vínculo institucional
+
+2002 - 2004
+Vínculo: Bolsista Pibic - UNICAP, Enquadramento Funcional: Aluno, Carga horária: 20
+Outras informações
+Iniciação Científica Pibic - UNICAP Projeto: Física Computacional em C++ Builder e Delphi Comentário: Foram desenvolvidas diversas aplicações de sistemas físicos não determinísticos nas linguagens Delphi e C++Buider. Período: 01/09/2002 a 30/09/2003 Iniciação Científica Pibic - UNICAP Projeto: Aplicações de Redes Neurais Comentário: Desenvolvidas aplicações de redes neurais que simulam o reconhecimento de padrões nas linguagens Java e Delphi. Período: 01/10/2003 a 30/09/2004
+
+Vínculo institucional
+
+2001 - 2002
+Vínculo: Estagio, Enquadramento Funcional: Aluno, Carga horária: 20
+Outras informações
+Estagiário da UNICAP NIC - Núcleo de Informática e Computação. Período: 03/09/2001 a 02/09/2002. Realizava manutenção nos computadores e ficava disponível aos alunos para que tirassem dúvidas desde problemas ligados a programação até dificuldades diversas no uso do micro.
+
+Atividades
+
+8/2004 - 7/2005
+Extensão universitária , Centro de Ciências e Tecnologia, Departamento de Estatistica e Informatica.
+
+Atividade de extensão realizada
+Monitor da disciplina Algoritmos e Estrutura de Dados II.
+9/2002 - 9/2004
+Outras atividades técnico-científicas , Centro de Ciências e Tecnologia, Centro de Ciências e Tecnologia.
+
+Atividade realizada
+Bolsista Pibic - Unicap.
+9/2001 - 9/2002
+Estágios , Universidade Católica de Pernambuco, .
+
+Estágio realizado
+NIC - Núcleo de Informática e Computação.
+
+Multi Solution Tecnologia Ltda, MULTI SOLUTION, Brasil.
+Vínculo institucional
+
+2004 - 2004
+Vínculo: Celetista formal, Enquadramento Funcional: Programador Júnior, Carga horária: 40
+
+Atividades
+
+07/2004 - 11/2004
+Outras atividades técnico-científicas , Desenvolvimento, Desenvolvimento.
+
+Atividade realizada
+Desenvolvimento de Sistemas para web.
+
+
+Linhas de pesquisa
+1.
+Avaliação de desempenho
+2.
+Modelagem
+3.
+Avaliação de dependabilidade
+4.
+Estimativas de impacto ambiental de sistemas complexos (data center).
+
+Projetos de pesquisa
+2019 - Atual
+Quantificando o Impacto da Dependabilidade no Desempenho, na Sustentabilidade e no Custo das Infraestruturas para Computação nas Nuvens: Uma estratégia baseada em modelos
+Descrição: Um dos principais objetivos desse projeto é a proposição de um conjunto de modelos para a quantificação do impacto da dependabilidade no desempenho, consumo energético, e custo das infraestruturas de computação nas nuvens. Técnicas de medição serão adotadas para realizar a coleta de dados dos experimentos realizados tanto em sistemas reais já implantados e em produção como em outros criados em nosso laboratório para experimentos. Além disso, uma estratégia de modelagem hierárquica será adotada para levar em consideração as vantagens das redes de Petri estocásticas e coloridas, dos diagramas de blocos de confiabilidade, de modelos de fluxo de energia, de cadeias de Markov, e das árvores de falha. Além disso, estratégias para otimizar as métricas de interesse também serão estudadas a fim de permitir a melhora dos resultados analisados e obtidos através dos modelos. É esperado que os resultados gerados a partir da metodologia proposta, que irá fazer uso de forma integrada de estratégias de monitoramento, modelagem e estratégias de otimização, consiga reduzir o impacto ambiental, aumentar a dependabilidade, o desempenho e reduzir o custo operacional dos sistemas de computação nas nuvens..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (4) .
+
+Integrantes: Gustavo Rau de Almeida Callou - Coordenador / Ermeson Carneiro - Integrante / Bruno Nogueira - Integrante / Claudemir Jeremias Lima - Integrante / Felipe Fernandes de Lima Melo - Integrante / Osvaldo Marinho dos Santos Neto - Integrante / Thiago Valentim Bezerra - Integrante / Waldeck Antônio de Melo Lindoso Júnior - Integrante / Wenderson de Souza Leonardo - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2018 - Atual
+Estratégias para Avaliar e Otimizar Desempenho, Custo, Disponibilidade e Sustentabilidade de Sistemas Computacionais
+Descrição: Um dos principais objetivos desse projeto é a proposição de um conjunto de modelos para a quantificação integrada do impacto do consumo energético, desempenho, custo e dependabilidade de sistemas computacionais (ex., arquitetura de TI para data centers, computação nas nuvens e Internet das coisas)..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (4) .
+
+Integrantes: Gustavo Rau de Almeida Callou - Coordenador.
+2014 - 2017
+Uma Abordagem Integrada para a Avaliação e Otimização da Sustentabilidade, Desempenho, Custo e Disponibilidade de Sistemas Computacionais
+Descrição: O projeto visa a proposição de estudos para a avaliação e otimização de sistemas computacionais..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (3) .
+
+Integrantes: Gustavo Rau de Almeida Callou - Coordenador.
+Financiador(es): Universidade Federal Rural de Pernambuco - Auxílio financeiro.
+2014 - Atual
+Avaliação e Otimização de Desempenho, Dependabilidade, Sustentabilidae e Custo de Sistemas Computacionais.
+Descrição: Um dos objetivos desse projeto é propor um conjunto de modelos para a quantificação integrada do impacto na sustentabilidade, desempenho, custo e dependabilidade de infraestruturas para data centers e computação nas nuvens. Técnicas de medições serão adotadas para realizar a coleta de dados dos experimentos realizados tanto em cenários reais como em outros criados experimentalmente. Métodos de otimização também serão propostos para melhorar os resultados obtidos através de modelos como os diagramas de blocos de confiabilidade, as redes de Petri estocásticas e o modelo de fluxo de energia (EFM)..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (3) .
+
+Integrantes: Gustavo Rau de Almeida Callou - Coordenador / Ermeson - Integrante / Maciel, Paulo - Integrante / João Ferreira - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+2011 - 2016
+Dependability and Performance Evaluation of Storage Systems (DEPS)
+Descrição: O projeto DEPS possui foco em sistemas de armazenamento, especificamente no estudo de suas características de performabilidade (desempenho e dependabilidade), assim como no desenvolvimento de ferramentas que auxiliem no monitoramento e modelagem deste tipo de sistema. A avaliação combinada de características de desempenho e dependabilidade é um fator importante a ser considerado neste projeto, pois a avaliação de desempenho dos sistemas de armazenamento tende a ser otimista, uma vez que ela ignora o comportamento de reparo e falha desses sistemas. Por outro lado, a análise pura de dependabilidade tende a ser conservativa, uma vez que considerações relacionadas ao desempenho não são consideradas. Assim, é essencial combinar a avaliação de desempenho e dependabilidade. Isto é, a análise de performabilidade. Adicionalmente, o projeto será concentrado em sistemas com mecanismos de redundância, como os dispositivos RAID (Redundant Array of Independent Drives) e ambientes NAS (Network Attached Storage), devido à sua vasta aplicação nos ambientes corporativos que necessitam manipular grandes volumes de dados, de maneira eficiente e confiável..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Doutorado: (5) .
+
+Integrantes: Gustavo Rau de Almeida Callou - Integrante / Maciel, Paulo - Coordenador / Araujo, Carlos - Integrante / Silva, Bruno - Integrante / Rubens Matos - Integrante / Daniel Filype Silva Barreto - Integrante / Vandi Alves de Lira Neto - Integrante / Jean Carlos Teixeira de Araujo - Integrante.
+Financiador(es): FOXCONN CMMSG Indústria de Eletronicos - Cooperação / EMC - Cooperação.
+2011 - 2012
+Assessment to support the planning of sustainable data centers with high availability
+Descrição: Esse projeto visa o desenvolvimento de uma metodologia para a avaliação integrada de custo, impacto ambiental e dependabilidade de ambientes data center..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Doutorado: (1) .
+
+Integrantes: Gustavo Rau de Almeida Callou - Coordenador / dietmar tutsch - Integrante / Paulo Romero Martins Maciel - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+Número de produções C, T & A: 1
+2009 - 2010
+Dependability Evaluation and Management of Sustainable Data Centers - DESDAC
+Descrição: Durante os últimos anos, tem se observado um extraordinário crescimento do número, das dimensões e da capacidade dos data centers. É também relevante salientar as diversas características e aspectos que concorrem com a finalidade de se alcançar os altos níveis de disponibilidade nesses sistemas data centers, dentre estes são fundamentais os mecanismos de redundância, as políticas de manutenção e os meios que reduzam a probabilidade do provimento de serviços fora dos níveis de especificação definidos. Dentre estes meios, destacam-se os mecanismos de resfriamento do sistema computacional. Contudo, por outro lado, os sistemas de resfriamento são agentes significativos para o aumento do consumo de energia e conseqüentemente um aspecto relevante a ser considerado com relação à emissão de gás carbônico. Nesse contexto, o projeto DESDAC tem como objetivo o desenvolvimento de uma metodologia de modelagem e de avaliação de confiabilidade e disponibilidade de data centers. O projeto considera a concepção e desenvolvimento de um conjunto de modelos parametrizados que permitam a avaliação de métricas de disponibilidade e confiabilidade dos componentes e sub-sistemas que compreendem os sistemas data centers. Este projeto contempla os sistemas energéticos, o de resfriamento e o computacional (servidores, mecanismos de rede e armazenamento) e suas inter-relações, de maneira que se possam avaliar os efeitos das condições operacionais sobre a disponibilidade deste sistema integrado e dos custos financeiros e ambientais necessários associados..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (3) .
+
+Integrantes: Gustavo Rau de Almeida Callou - Integrante / Paulo Maciel - Coordenador / Eduardo Tavares - Integrante / Silva, B. - Integrante / Carlos Araújo - Integrante / Erica Sousa - Integrante.
+Financiador(es): Hewllet Packard Co. - Cooperação.
+Número de produções C, T & A: 3
+
+Projetos de extensão
+2017 - 2017
+Elaboração de Material Didático para o Ensino de Data Science Aplicado a Performabilidade
+Descrição: Produzir material que auxilie professores, estudantes e profissionais da área, na utilização de ferramentas computacionais e aplicação do conhecimento teórico..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Mestrado acadêmico: (3) .
+
+Integrantes: Gustavo Rau de Almeida Callou - Coordenador / Bruno Nogueira - Integrante / Ermeson - Integrante / Araujo, Julian - Integrante / ALVES, GABRIEL - Integrante / Juccelino Barros - Integrante / Angélica Lopes - Integrante / Geraldo Gomes - Integrante.
+
+
+Revisor de periódico
+2013 - Atual
+Periódico: IEEE Transactions on Systems, Man and Cybernetics. Part A. Systems and Huma
+2015 - Atual
+Periódico: Microprocessors and Microsystems
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Avaliação de Desempenho.
+2.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Métodos Formais.
+3.
+Grande área: Engenharias / Área: Engenharia de Produção / Subárea: Pesquisa Operacional/Especialidade: Processos Estocásticos e Teoria das Filas.
+4.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Sistemas Embarcados.
+
+
+Idiomas
+Inglês
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Alemão
+Compreende Pouco, Lê Pouco.
+
+
+Prêmios e títulos
+2019
+Melhor Artigo do VIII Simpósio Brasileiro de Tecnologia da Informação, Simpósio Brasileiro de Tecnologia da Informação (SBTI).
+2015
+Professor Homenageado pelos Formandos do Curso de Licenciatura Plena em Computação do 2 semestre de 2015, UFRPE.
+2011
+Student Paper Competition FIRST PLACE, IEEE International Symposium on Sustainable Systems and Technology.
+2010
+Aprovado no concurso para Analista de Sistema (Nivel Superior), UFRPE.
+2005
+Sun Certified Programmer for the Java2 Platform 1.4, Sun Microsystems.
+
