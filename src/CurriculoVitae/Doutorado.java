@@ -2,64 +2,63 @@ package CurriculoVitae;
 
 public class Doutorado implements FormacaoAcademica{
 	
-	private String nomeOrientador;//G, M, D
-	private int codOrgao;//G, M, D
-	private String nomeOrgao;//G, M, D
-	private int codCurso;//G, M, D
-	private String nomeCurso;//G, M, D
-	private int codAreaCurso;//G, M, D
-	
+	private String Curso;
+	private String local;
+	private String detalhes;
+	private String titulo;
+	private String orientador;
+	private String bolsista;
 	
 	/*Metodos Get e Set abaixo*/
-	public String getNomeOrientador() {
-		return nomeOrientador;
+	public String getCurso() {
+		return Curso;
 	}
 
-	public void setNomeOrientador(String nomeOrientador) {
-		this.nomeOrientador = nomeOrientador;
+	public void setCurso(String curso) {
+		Curso = curso;
 	}
 
-	public int getCodOrgao() {
-		return codOrgao;
+	public String getLocal() {
+		return local;
 	}
 
-	public void setCodOrgao(int codOrgao) {
-		this.codOrgao = codOrgao;
+	public void setLocal(String local) {
+		this.local = local;
 	}
 
-	public String getNomeOrgao() {
-		return nomeOrgao;
+	public String getDetalhes() {
+		return detalhes;
 	}
 
-	public void setNomeOrgao(String nomeOrgao) {
-		this.nomeOrgao = nomeOrgao;
+	public void setDetalhes(String detalhes) {
+		this.detalhes = detalhes;
 	}
 
-	public int getCodCurso() {
-		return codCurso;
+	public String getTitulo() {
+		return titulo;
 	}
 
-	public void setCodCurso(int codCurso) {
-		this.codCurso = codCurso;
+	public void setTitulo(String titulo) {
+		this.titulo = titulo;
 	}
 
-	public String getNomeCurso() {
-		return nomeCurso;
+	public String getOrientador() {
+		return orientador;
 	}
 
-	public void setNomeCurso(String nomeCurso) {
-		this.nomeCurso = nomeCurso;
+	public void setOrientador(String orientador) {
+		this.orientador = orientador;
 	}
 
-	public int getCodAreaCurso() {
-		return codAreaCurso;
+	public String getBolsista() {
+		return bolsista;
 	}
 
-	public void setCodAreaCurso(int codAreaCurso) {
-		this.codAreaCurso = codAreaCurso;
+	public void setBolsista(String bolsista) {
+		this.bolsista = bolsista;
 	}
 	
-	
+
 	/* Metodos implementados da interface abaixo*/
 	@Override
 	public void sequenciaFormacao() {
