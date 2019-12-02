@@ -14,10 +14,10 @@ public class Arquivo {
 		try {
 			FileReader arq = new FileReader(Caminho);
 			
-			FileInputStream arq1 = new FileInputStream(arq);
-			InputStreamReader arq2 = new InputStreamReader(arq1);
+			//FileInputStream arq1 = new FileInputStream(arq);
+			//InputStreamReader arq2 = new InputStreamReader(arq1);
 			
-			BufferedReader lerArq = new BufferedReader(arq2);
+			//BufferedReader lerArq = new BufferedReader(arq2);
 			String linha="";
 			try {
 				linha=lerArq.readLine();
