@@ -10,7 +10,6 @@ public Doutorado(String curso, String local, String detalhes, String titulo, Str
 	this.orientador=orientador;
 	this.bolsista=bolsista;
 }
-	
 
 	public String getCurso() {
 		return super.curso;
