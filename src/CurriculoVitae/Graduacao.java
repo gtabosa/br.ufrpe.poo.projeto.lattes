@@ -2,120 +2,44 @@ package CurriculoVitae;
 
 public class Graduacao implements FormacaoAcademica {
 	
-	private String tituloTCC;//G
-	private String nomeOrientador;//G, M, D
-	private int codOrgao;//G, M, D
-	
-	private String nomeOrgao;//G, M, D
-	private int codCurso;//G, M, D
-	private String nomeCurso;//G, M, D
-	
-	private int codAreaCurso;//G, M, D
-	private String tituloTCC_EN;//G
-	private String formacaoAcademicaTitulacao;//G
-	
-	private String tipoGraduacao;//G
-	private int codInstituicaoGrad;//G
-	private String nomeInstituicaoGrad;//G
-	
-	private int codInstituicaoOutraGrad;//G
-	private String nomeInstituicaoOutraGrad;//G
-	private String nomeOrientadorGrad;//G
-	
+	private String local;//G, M, D
+	private int detalhes;//G, M, D
+	private String curso;//G, M, D
+	private int titulo;//G, M, D
 	
 	/*Metodos Get e Set abaixo*/
-	public String getTituloTCC() {
-		return tituloTCC;
+
+	public String getLocal() {
+		return local;
 	}
-	public void setTituloTCC(String tituloTCC) {
-		this.tituloTCC = tituloTCC;
+
+	public void setLocal(String local) {
+		this.local = local;
 	}
-	public String getNomeOrientador() {
-		return nomeOrientador;
+
+	public int getDetalhes() {
+		return detalhes;
 	}
-	public void setNomeOrientador(String nomeOrientador) {
-		this.nomeOrientador = nomeOrientador;
+
+	public void setDetalhes(int detalhes) {
+		this.detalhes = detalhes;
 	}
-	public int getCodOrgao() {
-		return codOrgao;
+
+	public String getCurso() {
+		return curso;
 	}
-	public void setCodOrgao(int codOrgao) {
-		this.codOrgao = codOrgao;
+
+	public void setCurso(String curso) {
+		this.curso = curso;
 	}
-	public String getNomeOrgao() {
-		return nomeOrgao;
+
+	public int getTitulo() {
+		return titulo;
 	}
-	public void setNomeOrgao(String nomeOrgao) {
-		this.nomeOrgao = nomeOrgao;
+
+	public void setTitulo(int titulo) {
+		this.titulo = titulo;
 	}
-	public int getCodCurso() {
-		return codCurso;
-	}
-	public void setCodCurso(int codCurso) {
-		this.codCurso = codCurso;
-	}
-	public String getNomeCurso() {
-		return nomeCurso;
-	}
-	public void setNomeCurso(String nomeCurso) {
-		this.nomeCurso = nomeCurso;
-	}
-	public int getCodAreaCurso() {
-		return codAreaCurso;
-	}
-	public void setCodAreaCurso(int codAreaCurso) {
-		this.codAreaCurso = codAreaCurso;
-	}
-	public String getTituloTCC_EN() {
-		return tituloTCC_EN;
-	}
-	public void setTituloTCC_EN(String tituloTCC_EN) {
-		this.tituloTCC_EN = tituloTCC_EN;
-	}
-	public String getFormacaoAcademicaTitulacao() {
-		return formacaoAcademicaTitulacao;
-	}
-	public void setFormacaoAcademicaTitulacao(String formacaoAcademicaTitulacao) {
-		this.formacaoAcademicaTitulacao = formacaoAcademicaTitulacao;
-	}
-	public String getTipoGraduacao() {
-		return tipoGraduacao;
-	}
-	public void setTipoGraduacao(String tipoGraduacao) {
-		this.tipoGraduacao = tipoGraduacao;
-	}
-	public int getCodInstituicaoGrad() {
-		return codInstituicaoGrad;
-	}
-	public void setCodInstituicaoGrad(int codInstituicaoGrad) {
-		this.codInstituicaoGrad = codInstituicaoGrad;
-	}
-	public String getNomeInstituicaoGrad() {
-		return nomeInstituicaoGrad;
-	}
-	public void setNomeInstituicaoGrad(String nomeInstituicaoGrad) {
-		this.nomeInstituicaoGrad = nomeInstituicaoGrad;
-	}
-	public int getCodInstituicaoOutraGrad() {
-		return codInstituicaoOutraGrad;
-	}
-	public void setCodInstituicaoOutraGrad(int codInstituicaoOutraGrad) {
-		this.codInstituicaoOutraGrad = codInstituicaoOutraGrad;
-	}
-	public String getNomeInstituicaoOutraGrad() {
-		return nomeInstituicaoOutraGrad;
-	}
-	public void setNomeInstituicaoOutraGrad(String nomeInstituicaoOutraGrad) {
-		this.nomeInstituicaoOutraGrad = nomeInstituicaoOutraGrad;
-	}
-	public String getNomeOrientadorGrad() {
-		return nomeOrientadorGrad;
-	}
-	public void setNomeOrientadorGrad(String nomeOrientadorGrad) {
-		this.nomeOrientadorGrad = nomeOrientadorGrad;
-	}
-	
-	
 	
 	
 	/* Metodos implementados da interface abaixo*/
